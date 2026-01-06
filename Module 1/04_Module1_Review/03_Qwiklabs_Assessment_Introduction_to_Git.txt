@@ -1,0 +1,16 @@
+Qwiklabs Assessment – Introduction to Git
+
+This assessment is designed to be completed hands-on
+to reinforce practical Git concepts.
+
+Status:
+✔ Completed on Qwiklabs platform
+
+Note:
+This assessment is intentionally not documented step-by-step here.
+It should be done independently to clarify concepts such as:
+- Initializing repositories
+- Tracking and committing files
+- Understanding Git workflow
+
+Hands-on practice is essential for mastering Git.
